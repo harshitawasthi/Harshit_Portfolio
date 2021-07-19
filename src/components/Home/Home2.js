@@ -20,9 +20,14 @@ function Home2() {
               <br />
               <b className="purple letter">
                 I am extremely passionate about building excellent software that
-                improves the lives of those around me. I specialize in creating
-                software for clients ranging from individuals and small
-                businesses all the way to large enterprise corporations.
+                improves the lives of those around me.
+              </b>
+              <br />
+              <br />
+              <b className="purple letter">
+                I specialize in creating software for clients ranging from
+                individuals and small businesses all the way to large enterprise
+                corporations.
               </b>
               <br />
               <br />I hold my expertise in &nbsp;

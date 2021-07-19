@@ -69,7 +69,7 @@ html {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: rgb(30, 24, 66) !important;
+  background-color: rgba(30, 24, 66, 0.3) !important;
   transition: all 0.3s ease-out 0s !important;
   box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
