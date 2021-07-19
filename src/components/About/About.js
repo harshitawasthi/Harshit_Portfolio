@@ -7,7 +7,7 @@ import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.svg";
-
+import Tilt from "react-parallax-tilt";
 function About() {
   return (
     <Container fluid className="about-section">
@@ -28,12 +28,15 @@ function About() {
               </h1>
               <Aboutcard />
             </Col>
+
             <Col
               md={5}
               style={{ paddingTop: "40px", paddingBottom: "50px" }}
               className="about-img"
             >
-              <img src={laptopImg} alt="about" className="img-fluid" />
+              <Tilt>
+                <img src={laptopImg} alt="about" className="img-fluid" />
+              </Tilt>
             </Col>
           </Row>
           <h1 className="project-heading">
