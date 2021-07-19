@@ -440,11 +440,13 @@ html {
 /* --------- */
 .project-section {
   position: relative !important;
-  padding-top: 150px !important;
-  padding-bottom: 30px !important;
+
   background-image: var(--section-background-color) !important;
 }
-
+.effects {
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+}
 .project-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
@@ -538,12 +540,14 @@ html {
 
 .about-section {
   position: relative !important;
-  padding-top: 150px !important;
-  padding-bottom: 30px !important;
+
   background-image: var(--section-background-color) !important;
   color: white !important;
 }
-
+.effects1 {
+  padding-top: 130px !important;
+  padding-bottom: 30px !important;
+}
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;
@@ -596,12 +600,14 @@ html {
 /* --------- */
 .resume-section {
   position: relative !important;
-  padding-top: 110px !important;
-  padding-bottom: 30px !important;
+
   background-image: var(--section-background-color) !important;
   color: white !important;
 }
-
+.effects2 {
+  padding-top: 110px !important;
+  padding-bottom: 30px !important;
+}
 .resume {
   padding-top: 10px;
   padding-bottom: 50px;
