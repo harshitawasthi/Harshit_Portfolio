@@ -1,20 +1,20 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="akshay-dev.tech" target="_blank">akshay-dev.tech</a>
+  <a href="https://harshitportfolio40.netlify.app/" target="_blank">harshitportfolio40.netlify.app/</a>
 </h2>
 
 <br/>
 
 ## Technology Stack
 
-My personal portfolio <a href="http://akshay-dev.tech/" target="_blank">akshay-dev.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://harshitportfolio40.netlify.app/" target="_blank">harshitportfolio40.netlify.app/</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - CSS3
 - VsCode
-- Vercel
+- Netlify
 
 ## Getting Started
 
@@ -38,4 +38,5 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+
 # Harshit_portfolio

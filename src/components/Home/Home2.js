@@ -54,16 +54,7 @@ function Home2() {
                   <i className="fab fa-github"></i>
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://www.facebook.com/akshay.gupta.921025/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <i className="fab fa-facebook"></i>
-                </a>
-              </li> */}
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/harshit-awasthi-8496241a4/"
